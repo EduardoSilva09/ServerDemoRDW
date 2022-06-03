@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/06/02 19:09:46.627,=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 19:18:39.080,C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\src\view\View.Server.pas=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 19:18:39.080,C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\src\view\View.Server.dfm=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/02 19:19:16.676,C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\Server.dproj=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/02 19:41:20.289,=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 19:42:00.856,=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 19:42:38.408,C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\src\database\dmPrincipal.pas=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 19:42:38.408,C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\src\database\dmPrincipal.dfm=C:\Users\Familia\DEV\Documents\Embarcadero\Studio\Projects\ServerDemoRDW\Server\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
